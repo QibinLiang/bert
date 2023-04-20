@@ -1,6 +1,6 @@
 # BERT
 
-This repository contains code for the paper [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805). The project is for me to learn about BERT and to experiment with it, so it might contain bugs and is not guaranteed to be correct. But it should be a good starting point for someone who wants to play with BERT. I have tried to train BERT on a small dataset and it seems to work. Although it can not generate a reasonable result, it somehow learns to predict the next word that is correct in terms of grammar. Of course, the model can fill the blank in a sentence where the token is <mask>.
+This repository contains code for the paper [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805). The project is for me to learn about BERT and to experiment with it, so it might contain bugs and is not guaranteed to be correct. But it should be a good starting point for someone who wants to play with BERT. I have tried to train BERT on a small dataset and it seems to work. Although it can not generate a reasonable result, it somehow learns to predict the next word that is correct in terms of grammar. Of course, the model can fill the blank in a sentence where the token is `<mask>`.
 
 ## Quick Start
 
